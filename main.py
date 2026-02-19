@@ -16,7 +16,7 @@ if page == "Home & Profil":
     
     col1, col2 = st.columns([1, 2])
     with col1:
-        st.image("https://drive.google.com/file/d/1MDY9hk7JC-82nsoB7ADxPJGJYsUJPEjL/view?usp=sharing", caption="Indri Dwiwanty Purba") # Ganti dengan link foto Anda
+        st.subheader("A/B Testing Portofolio")# Ganti dengan link foto Anda
     
     with col2:
         st.markdown("### Experience")
